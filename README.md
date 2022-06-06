@@ -22,6 +22,12 @@ https://www.npmjs.com/package/@surinderlohat/react-form-validation
 
 ## 📫 How to reach me ...
 www.linkedin.com/in/surinder-singh-lohat
+
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
+</div>
+
 <!---
 surinderlohat/surinderlohat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
