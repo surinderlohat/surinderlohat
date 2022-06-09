@@ -16,6 +16,8 @@ https://www.npmjs.com/package/@surinderlohat/react-hooks
 https://www.npmjs.com/package/@surinderlohat/react-dialog
 <br/>
 https://www.npmjs.com/package/@surinderlohat/react-form-validation
+<br/>
+https://www.npmjs.com/package/@surinderlohat/react-stepper-wizard
 
 ## 💞️ I’m looking to collaborate on ...
 <p align="center"> Looking to collaborate on React and Nodejs based projects🔥 </p>
