@@ -11,6 +11,8 @@ My name is [Surinder Singh!](https://github.com/surinderlohat/)! and I'm a senio
 I have Experties in builidng MERN stack applications and i have build few npm packages.
 You can checkout here 
 
+https://www.npmjs.com/package/@surinderlohat/chrome-extension-builder 🔥
+<br/>
 https://www.npmjs.com/package/@surinderlohat/react-hooks
 <br/>
 https://www.npmjs.com/package/@surinderlohat/react-dialog
