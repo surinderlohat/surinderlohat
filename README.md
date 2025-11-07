@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm **Surinder**
 
-###  Senior Software Engineer | Node.js | React | Python | Mcp Server | Microservices architecture | AI/ML Based Products 
+###  Senior Software Engineer | Node.js | React | Python | MCP Server | Microservices architecture | AI/ML Based Products 
 
 Passionate about building high-performance, scalable web applications with clean architecture and modern tech stacks.
 I specialize in creating seamless front-end experiences and robust backend systems — from concept to deployment.
