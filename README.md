@@ -1,9 +1,10 @@
 ## 👋 Hi there, I'm **Surinder**
 
-###  Senior Software Engineer | Node.js | React | Python | MCP Server | Microservices architecture | Generative AI & LLM
+###  Senior Software Engineer | Python | Node.js | React | Typescript | MCP Server | Generative AI & LLM based products
 
 Passionate about building high-performance, scalable web applications with clean architecture and modern tech stacks.
-I specialize in creating seamless front-end experiences and robust backend systems — from concept to deployment.
+I specialize in full-stack development with Node.js, React (Redux, Material UI, Tailwind CSS, TypeScript), and Python (FastAPI).
+Experienced in designing and deploying scalable microservices, microfrontend (MFE) architectures, and AI-driven solutions across AWS, Azure, and Heroku.
 
 ---
 
