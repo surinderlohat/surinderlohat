@@ -1,16 +1,108 @@
-<h1 align="center">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
-</h1>
+## 👋 Hi there, I'm **Surinder**
 
-<!-- Introduction -->
-My name is [Surinder Singh!](https://github.com/surinderlohat/)! and I'm a senior software developer. I'm from India, living in mohali. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Learning new technologies, recently i have started learning Blockchain Web Development on Ethereum and web3.
+###  Senior Software Engineer | Node.js | React | Python | Mcp Server | Microservices architecture | AI/ML Based Products 
 
-## 🔥 Recent Projects
-<p align="center"> If you can dream it, you can do it🔥 </p>
-I have Experties in builidng MERN stack applications and i have build few npm packages.
+Passionate about building high-performance, scalable web applications with clean architecture and modern tech stacks.
+I specialize in creating seamless front-end experiences and robust backend systems — from concept to deployment.
+
+---
+
+### **Tech Stack & Expertise**
+
+#### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+JavaScript (ES6+), TypeScript, Python, SQL
+
+#### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+* **Node.js**, **Express**, **FastAPI**, **Django**
+* RESTful APIs, WebSockets, Microservices Architecture
+* Authentication, Middleware, Caching, Logging
+
+#### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
+![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+* **React**, **Next.js**, **Material UI**, **MobX**, **Redux**
+* Component-driven development, SSR/SSG
+* UI performance optimization, responsive design
+
+#### **Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+* PostgreSQL, MongoDB, SQLite, Redis
+* ORM: SQLAlchemy, Django ORM
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+* **AWS** (EC2, S3, Lambda)
+* **Azure Cloud**, **Heroku**, **Docker**, **Nginx**
+* GitHub Actions, CI/CD pipelines, containerized deployments
+
+#### **Tools & Collaboration**
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+* **Azure Boards** (Project & Sprint Management )
+* **Notion** : a versatile, all-in-one digital workspace for individuals and teams to organize work and projects by combining note-taking, project management, and knowledge management features
+* Jira, Git, Postman, VS Code, Monday.com
+* Agile development, code reviews, mentorship
+
+---
+
+### **Currently Working On**
+
+* Scalable backend architecture using FastAPI + PostgreSQL
+* Interactive dashboards with React, Material UI, and MobX
+* Deployments on AWS & Heroku for SaaS prototypes
+* Streamlining workflow automation using Notion & APIs
+
+---
+
+### **Career Highlights**
+
+* 8+ years of experience in full-stack software development
+* Led multiple teams delivering production-ready apps
+* Architected and deployed microservice-based systems
+* Experience across FinTech, SaaS, and Automation domains
+
+---
+
+### **Tech Philosophy**
+> “Clean architecture, consistent UI, and automated deployments — the foundation of sustainable engineering.”
+> 🔥 If you can dream it, you can do it
+
+---
+
+### **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/surinder-singh-lohat)
+---
+
+### **Fun Fact**
+I enjoy blending **code, creativity, and automation** — whether it’s optimizing a React app or building a FastAPI service that deploys itself.
+
+
+## My Fe Npm Packages 
 You can checkout here 
-
+<br/>
 https://www.npmjs.com/package/@surinderlohat/chrome-extension-builder 🔥
 <br/>
 https://www.npmjs.com/package/@surinderlohat/react-hooks
@@ -22,17 +114,4 @@ https://www.npmjs.com/package/@surinderlohat/react-form-validation
 https://www.npmjs.com/package/@surinderlohat/react-stepper-wizard
 
 ## 💞️ I’m looking to collaborate on ...
-<p align="center"> Looking to collaborate on React and Nodejs based projects🔥 </p>
-
-## 📫 How to reach me ...
-www.linkedin.com/in/surinder-singh-lohat
-
-<div align="center">
-	<a href="https://git.io/typing-svg">
-		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
-</div>
-
-<!---
-surinderlohat/surinderlohat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> Looking to collaborate on Python React and Nodejs based projects🔥 </p>
