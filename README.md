@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **Surinder**
+## 👋 Hi there, I'm **Surinder Singh**
 
 ###  Senior Software Engineer | Python | Node.js | React | Typescript | MCP Server | Generative AI & LLM based products
 
