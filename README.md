@@ -89,18 +89,17 @@ JavaScript (ES6+), TypeScript, Python, SQL
 ### **Tech Philosophy**
 > “Clean architecture, consistent UI, and automated deployments — the foundation of sustainable engineering.”
 > 🔥 If you can dream it, you can do it
+---
 
+### **Fun Fact**
+I enjoy blending **code, creativity, and automation** — whether it’s optimizing a React app or building a FastAPI service that deploys itself.
 ---
 
 ### **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/surinder-singh-lohat)
 ---
 
-### **Fun Fact**
-I enjoy blending **code, creativity, and automation** — whether it’s optimizing a React app or building a FastAPI service that deploys itself.
-
-
-## My Fe Npm Packages 
+## My Npm Packages 
 You can checkout here 
 <br/>
 https://www.npmjs.com/package/@surinderlohat/chrome-extension-builder 🔥
@@ -113,5 +112,3 @@ https://www.npmjs.com/package/@surinderlohat/react-form-validation
 <br/>
 https://www.npmjs.com/package/@surinderlohat/react-stepper-wizard
 
-## 💞️ I’m looking to collaborate on ...
-<p align="center"> Looking to collaborate on Python React and Nodejs based projects🔥 </p>
